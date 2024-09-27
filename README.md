@@ -2,9 +2,6 @@
 
 Welcome to our simple web design project! This project is designed to help you get started with HTML, CSS, and JavaScript in an easy-to-understand environment.
 
-Instructions for this project will be updated and live here:
-[https://iacs-cs.github.io/web-design-instructions/portfolio-project/]
-
 - Instructions for understanding GitHub CodeSpaces are below.
 
 ## Running the Project
@@ -21,7 +18,14 @@ There are two ways to run the project and see your changes in real-time:
 ### Using the Terminal
 
 1. Open the terminal in VS Code.
-2. Type `npm start` and press Enter. This will start a local server and open your project in a web browser.
+2. Type `npx live-server ./` and press Enter. This will start a local server and open your project in a web browser.
+
+## Viewing the Project Side-by-Side
+
+- Click on the "Ports" tab at the bottom of the editor.
+- Hover over the "Forwarded Address" link next to port 8080.
+- Click on the side-by-side (rightmost) icon
+- Hit "refresh" on the mini web-browser to update the browser when your content updates.
 
 ## Editing Your Project
 
